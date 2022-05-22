@@ -1,3 +1,5 @@
-# Hi there, I'm Juan👨‍🔬
+# Hi there! I'm Juan👨‍🔬
 
-An enthusiastic and ambitious software developer committed to human-center development. I'm interested in UI development, web performance, information security, privacy, data analysis and visualization, and much more🔥
+I'm a Venezuelan software engineer and developer based in NYC. 
+
+I love designing, and building systems, and software that helps people. I'm currently working at Infosys. There I spend my days making sure that the products I build are high quality and our users are receiving the experience that they deserve.
